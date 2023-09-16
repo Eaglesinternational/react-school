@@ -1,0 +1,51 @@
+.hello{
+    color: #fff;
+    font-size: 20px;
+    text-decoration: none;
+    padding: 10px;
+    transition: color, background 2s;
+    
+}
+.hello:hover{
+    color: blue;
+    background: rgba(255, 255, 255, 0.7);
+}
+.underline{
+    height: 4px;
+    width:5rem;
+    background-color: red;
+    border-radius: 4px;
+}
+.subunderline{
+    height: 4px;
+    width:  4rem;
+    background-color: rgb(77, 247, 55);
+    border-radius: 4px;
+}
+.f2f2f2{
+    background-color: #f2f2f2;
+}
+.slide{
+    top: 68px;
+}
+.sliding{
+    top: 380px;
+}
+.me{
+  top: 200px;
+}
+.nam{
+    resize: none;
+}
+.wait{
+    resize: none;
+ 
+   
+}
+.forms{
+    margin-top: 70px !important;
+    width: 450px;
+    margin: 0 auto;
+    justify-content: center;
+    align-items: center;
+}
